@@ -1,0 +1,1 @@
+/**2. 배열 (instanceof Array) **/
